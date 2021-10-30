@@ -1,0 +1,2 @@
+vhdtdtfi -lib work Plus.vhd -prj Matriz_LED -o Plus.spl -module Plus -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 Plus.spl {C:/Users/GLORIA GOMEZ/Downloads/Matriz_LED/Plus.sym} 
